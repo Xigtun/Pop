@@ -34,6 +34,8 @@ render() {
           <View style={{height: 300, width: '80%', backgroundColor:'red'}}/>
           ,{animationType: 'slide-up', maskClosable: true, onMaskClose: ()=>{}})
   }
+  
+  // animationType fade slide-down slide-up 
 
 ```
 

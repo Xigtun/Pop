@@ -4493,9 +4493,9 @@ rmc-dialog@~1.0.6:
     babel-runtime "6.x"
     rc-animate "2.x"
 
-rn-global-modal@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/rn-global-modal/-/rn-global-modal-1.0.2.tgz#05a328282419b4ebc553a56fd17aff61928a6779"
+rn-global-modal@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/rn-global-modal/-/rn-global-modal-1.0.3.tgz#7badf487321751629701f56bf22d9a080ded59c5"
   dependencies:
     babel-runtime "6.x"
     rc-animate "2.x"

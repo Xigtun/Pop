@@ -13,7 +13,6 @@ import {
 } from 'react-native';
 import Pop from './rn-global-modal'
 
-type Props = {};
 export default class App extends Component<Props> {
   render() {
     return (
@@ -31,7 +30,6 @@ export default class App extends Component<Props> {
           <View style={{height: 300, width: '80%', backgroundColor:'red'}}/>
           ,{animationType: 'slide-up', maskClosable: true, onMaskClose: ()=>{}})
   }
-
 }
 
 const styles = StyleSheet.create({
